@@ -47,14 +47,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joohnndaveee&theme=cobalt&border_radius=10&show_icons=true&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" />
 </div>
-
+<!-- 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=joohnndaveee&theme=cobalt&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
+ -->
 ---
 
 <picture>
