@@ -10,9 +10,7 @@
 
 ---
 
-<div align="center">
-  <img src="images/logo/techStacks.gif" height="60" />&nbsp;&nbsp;<b>Tech Stack and Tools</b>
-</div>
+<div align="center"><img src="images/logo/techStacks.gif" height="60" align="middle" />&nbsp;&nbsp;<b>Tech Stack and Tools</b></div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
@@ -50,9 +48,7 @@
 
 ---
 
-<div align="center">
-  <img src="images/logo/githubStats.gif" height="60" />&nbsp;&nbsp;<b>GitHub Stats</b>
-</div>
+<div align="center"><img src="images/logo/githubStats.gif" height="60" align="middle" />&nbsp;&nbsp;<b>GitHub Stats</b></div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
