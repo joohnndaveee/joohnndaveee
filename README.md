@@ -6,17 +6,15 @@
   <h1>Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="32px" width="32px" />, I'm John Dave</h1>
 </div>
 
-<img src="banner.png" alt="John Dave Banner" width="100%" height="320"/>
+<img src="banner.png" alt="John Dave Banner" width="100%"/>
+
 
 ---
 
 <div align="center"><img src="images/logo/techStacks.gif" height="60" align="middle" />&nbsp;&nbsp;<b>Tech Stack and Tools</b></div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
 
-<br>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -63,5 +61,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
 </picture>
-
----
