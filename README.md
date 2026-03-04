@@ -11,20 +11,14 @@
 ---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="images/logo/techStacks.gif" height="80" />
-      </td>
-      <td align="left" valign="middle">
-        <h2>Tech Stack and Tools</h2>
-      </td>
-    </tr>
-  </table>
+  <img src="images/logo/techStacks.gif" height="60" />&nbsp;&nbsp;<b>Tech Stack and Tools</b>
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
 
-
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -57,16 +51,7 @@
 ---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="images/logo/githubStats.gif" height="80" />
-      </td>
-      <td align="left" valign="middle">
-        <h2>GitHub Stats</h2>
-      </td>
-    </tr>
-  </table>
+  <img src="images/logo/githubStats.gif" height="60" />&nbsp;&nbsp;<b>GitHub Stats</b>
 </div>
 
 <p align="center">
@@ -78,4 +63,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
+</picture>
+
+---
