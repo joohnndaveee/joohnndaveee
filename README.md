@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35px" width="35px" /> I'm John Dave</h1>
-  <p><em>Full-Stack Developer · Building things that matter</em></p>
-
   <img src="https://komarev.com/ghpvc/?username=joohnndaveee&label=Profile+Views&color=0891b2&style=flat-square" alt="profile views" />
+  <h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35px" width="35px" /> I'm John Dave</h1>
+
 </div>
 
 ---
