@@ -11,14 +11,20 @@
 ---
 
 <div align="center">
-  <img src="images/logo/techStacks.gif" height="80" style="vertical-align: middle;" />
-  <span style="font-size: 1.8em; font-weight: 700; vertical-align: middle;"> Tech Stack and Tools</span>
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="images/logo/techStacks.gif" height="80" />
+      </td>
+      <td align="left" valign="middle">
+        <h2>Tech Stack and Tools</h2>
+      </td>
+    </tr>
+  </table>
 </div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
 
-<br>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -51,9 +57,18 @@
 ---
 
 <div align="center">
-  <img src="images/logo/githubStats.gif" height="80" style="vertical-align: middle;" />
-  <span style="font-size: 1.8em; font-weight: 700; vertical-align: middle;"> GitHub Stats</span>
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="images/logo/githubStats.gif" height="80" />
+      </td>
+      <td align="left" valign="middle">
+        <h2>GitHub Stats</h2>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
@@ -62,11 +77,5 @@
   <img src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" height="180" alt="John Dave Coding" />
 </p>
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
-</picture>
-
----
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph
